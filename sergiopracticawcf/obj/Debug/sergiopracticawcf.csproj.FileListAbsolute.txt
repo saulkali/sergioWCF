@@ -1,0 +1,7 @@
+C:\Users\saul\source\repos\sergiopracticawcf\sergiopracticawcf\obj\Debug\sergiopracticawcf.csproj.CoreCompileInputs.cache
+C:\Users\saul\source\repos\sergiopracticawcf\sergiopracticawcf\bin\sergiopracticawcf.dll.config
+C:\Users\saul\source\repos\sergiopracticawcf\sergiopracticawcf\bin\sergiopracticawcf.dll
+C:\Users\saul\source\repos\sergiopracticawcf\sergiopracticawcf\bin\sergiopracticawcf.pdb
+C:\Users\saul\source\repos\sergiopracticawcf\sergiopracticawcf\obj\Debug\sergiopracticawcf.dll
+C:\Users\saul\source\repos\sergiopracticawcf\sergiopracticawcf\obj\Debug\sergiopracticawcf.pdb
+C:\Users\saul\source\repos\sergiopracticawcf\sergiopracticawcf\obj\Debug\sergiopracticawcf.csprojAssemblyReference.cache
